@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "abiVersion": 1,
+  "id": "xgr",
+  "name": "XGR",
+  "ticker": "XGR",
+  "version": "0.1.9",
+  "kind": "account",
+  "networkId": "xgr-mainnet-1643",
+  "decimals": 8,
+  "capabilities": [],
+  "runtime": {
+    "type": "legacy"
+  },
+  "nativeRoute": "xgr-wallet",
+  "coin": {
+    "id": "xgr",
+    "name": "XGR",
+    "ticker": "XGR",
+    "explorerUrl": "https://explorer.xgr.network",
+    "networkId": "xgr-mainnet-1643",
+    "supportsMemo": false,
+    "satsPerCoin": 100000000,
+    "walletEngine": "xgr-account"
+  },
+  "icon": "icon.png"
+}
